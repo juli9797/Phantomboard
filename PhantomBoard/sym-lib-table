@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name booster)(type Legacy)(uri ${KIPRJMOD}/booster.lib)(options "")(descr ""))
+  (lib (name usbc)(type Legacy)(uri ${KIPRJMOD}/usbc.lib)(options "")(descr ""))
+)
